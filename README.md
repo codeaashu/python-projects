@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 <br />
-  <h1 align="center">PYTHON PROJECTS</h1>
+  <h1 align="center"><b>PYTHON PROJECTS</b></h1>
   
   <img src="./assets/python projects cover.png" />
 
@@ -21,5 +21,5 @@ Welcome to my Python Programming Projects Repository! Dive into the exciting wor
 
 ### 1. OTP Verification
 
-- Description: A program to simulate a voting system.
+- Description: A program to make an OTP verification System with Help of various libraries.
 - Blog Post: [Voting System](https://codeaashu.hashnode.dev/otp-verification-using-python)
