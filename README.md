@@ -22,4 +22,4 @@ Welcome to my Python Programming Projects Repository! Dive into the exciting wor
 ### 1. OTP Verification
 
 - Description: A program to make an OTP verification System with Help of various libraries.
-- Blog Post: [Voting System](https://codeaashu.hashnode.dev/otp-verification-using-python)
+- Blog Post: [OTP Verification Article](https://codeaashu.hashnode.dev/otp-verification-using-python)
