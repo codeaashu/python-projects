@@ -12,14 +12,14 @@
 
   <h2 align="center">Python Projects 🚀 <a href="https://codeaashu.hashnode.dev/series/python-projects">Article Series</a></h2>
 
-Welcome to my C programming learning repository! This repository contains various programs and projects implemented in C to enhance programming skills.
+Welcome to my Python Programming Projects Repository! Dive into the exciting world of Python projects! We'll explore a range of projects, from beginner-friendly to advanced, to solidify your skills and build practical applications. Each project comes with clear explanations and source code. This repository contains various projects implemented in PYTHON to enhance programming skills.
 
 </div>
 
 ## 
 ## Project Documentation
 
-### 1. Voting System
+### 1. OTP Verification
 
 - Description: A program to simulate a voting system.
-- Blog Post: [Voting System](https://codeaashu.hashnode.dev/building-a-voting-system-in-c)
+- Blog Post: [Voting System](https://codeaashu.hashnode.dev/otp-verification-using-python)
