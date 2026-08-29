@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/python-projects)
   ![GitHub stars](https://img.shields.io/github/stars/codeaashu/python-projects?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codeaashu/python-projects?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrioraashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrioraashuu)
 
 <br />
   <h1 align="center"><b>PYTHON PROJECTS</b></h1>
@@ -23,3 +23,12 @@ Welcome to my Python Programming Projects Repository! Dive into the exciting wor
 
 - Description: A program to make an OTP verification System with Help of various libraries.
 - Blog Post: [OTP Verification Article](https://codeaashu.hashnode.dev/otp-verification-using-python)
+
+---
+Cooked by aashuu ✦ (Ashutosh Kumar)<br>
+Founder of [2C Labs](https://www.2clabs.tech)
+
+I build tech businesses through SaaS products across every layer of the internet ( Web2 ▪︎ Web3 ▪︎ AI-native ▪︎ Infrastructure )
+
+Connect here:<br>
+Website [www.aashuu.me](https://www.aashuu.me) ✦  𝕏 [@warrioraashuu](https://x.com/warrioraashuu) ✦  LinkedIn [@warrioraashuu](https://www.linkedin.com/in/warrioraashuu/)
